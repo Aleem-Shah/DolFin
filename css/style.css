@@ -226,6 +226,11 @@ body {
     height: 390px;
   }
 }
+.h1-p{
+  text-align: center;
+  padding: 20px;
+  text-decoration: underline;
+}
 
 .gtco-banner-area a, .gtco-feature a, .gtco-features a, .gtco-news .owl-carousel .card a, #gtco-footer .submit-button {
   background-image: -moz-linear-gradient(0deg, #06c6f9 0%, #38eaf9 100%);
@@ -344,6 +349,60 @@ body {
 }
 .gtco-feature p small {
   font-size: 16px;
+}
+
+
+
+.main {
+  display: block;
+  margin-top: 50px;
+  padding: 15px;
+  height: 500px;
+  width: 90%;
+  background-color: #ffffff17;
+  color: white;
+  font-family: monospace;
+  justify-content: left;
+  align-content: left;
+}
+.btn-outline-secondary.btn-primary {
+  color: white;
+}
+.blog-footer {
+  padding: 2rem 0;
+  color: #999;
+  text-align: center;
+  background-color: #333a42;
+}
+.blog-footer:last-child {
+  margin-bottom: 0;
+}
+audio {
+  width: inherit;
+}
+a {
+  text-decoration: none;
+  color: white;
+}
+a:visited {
+  text-decoration: none;
+  color: white;
+}
+.input-group{
+  width: 500px;
+  margin: auto;
+}
+.maxs{
+  text-align: center;
+}
+a:hover {
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.mc-r{
+ padding-left: 214px;
+ text-decoration: underline;
 }
 .gtco-feature a {
   margin-top: 20px;
@@ -816,4 +875,14 @@ body {
   #gtco-footer .col-lg-6 {
     margin-bottom: 50px;
   }
+}
+
+.img-p{
+  width: 600px;
+  padding-left: 112px  !important;
+  padding: 90px;
+}
+.text-b{
+  padding-left: 120px !important;
+  padding-top: 20px;
 }
