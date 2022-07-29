@@ -1047,6 +1047,16 @@ ul .content::-webkit-scrollbar{
   font-size: 17px;
   font-weight: 500;
 }
+.maz{
+  font-size: 22px;
+  padding-bottom: 240px !important;
+  font-weight: bold;
+  text-decoration: underline;
+
+}
+.mak{
+  background-image: linear-gradient( 174.2deg,  rgba(255,244,228,1) 7.1%, rgba(240,246,238,1) 67.4% );
+}
 .content li span{
   font-size: 15px;
   color: #7E7E7E;
@@ -1059,4 +1069,7 @@ ul .content::-webkit-scrollbar{
   cursor: pointer;
   margin-right: 5px;
   text-decoration: underline;
+}
+.lop{
+  color: #838383 !important;
 }
